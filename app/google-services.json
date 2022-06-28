@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "753598430455",
+    "firebase_url": "https://prefinal-exam-default-rtdb.firebaseio.com",
+    "project_id": "prefinal-exam",
+    "storage_bucket": "prefinal-exam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753598430455:android:001ddb21bbf334f086a7f2",
+        "android_client_info": {
+          "package_name": "com.dichosomarco.parkingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753598430455-p75opfmmfeigcgi8ocpu0fe24fbgb8kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhmyCNLTCph4_SkmQBj7zIFZ1Z2oCxkzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753598430455-p75opfmmfeigcgi8ocpu0fe24fbgb8kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
